@@ -4,6 +4,7 @@ import Header from "./components/Layout/Header/Header"
 const Home = () => {
   return (
     <>
+     <Header />
     <div>
       Homepage</div>
     </>
