@@ -1,7 +1,9 @@
-html,
+@import './_variables';
+
 body {
-  padding: 0;
   margin: 0;
+  padding: 0;
+  background-color:$color-4;
 }
 
 a {

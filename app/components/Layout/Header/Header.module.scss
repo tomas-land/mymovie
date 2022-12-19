@@ -1,5 +1,9 @@
+@import '~styles/_variables.scss';
+
 .header{
 height: 5rem;
 width: 100%;
-background-color: rgb(46, 64, 87);
+background-color: $color-4-dark;
+border-image:   linear-gradient(to right, grey 25%, yellow 25%, yellow 50%,red 50%, red 75%, teal 75%) 5;
+
 }

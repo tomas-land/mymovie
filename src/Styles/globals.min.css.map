@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CACJ,IAAI,AAAC,CACH,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACV,AAED,AAAA,CAAC,AAAC,CACA,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,IAAI,CACtB,AAED,AAAA,CAAC,AAAC,CACA,UAAU,CAAE,UAAU,CACvB",
+    "mappings": "ACAA,OAAO,CAAC,mEAAI,CACZ,OAAO,CAAC,2HAAI,CACZ,OAAO,CAAC,gLAAI,CACZ,OAAO,CAAC,4EAAI,CDDZ,AAAA,IAAI,AAAC,CACH,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,gBAAgB,CCeR,OAAO,CDdhB,AAED,AAAA,CAAC,AAAC,CACA,KAAK,CAAE,OAAO,CACd,eAAe,CAAE,IAAI,CACtB,AAED,AAAA,CAAC,AAAC,CACA,UAAU,CAAE,UAAU,CACvB",
     "sources": [
-        "../../styles/globals.scss"
+        "../../styles/globals.scss",
+        "../../styles/_variables.scss"
     ],
     "names": [],
     "file": "globals.min.css"
